@@ -35,11 +35,15 @@ All of these files must stay in the same directory for the application to start 
 
 ---
 
-### How to Run
+### Download and Run
 
-1. **Download or clone** this repository.
-2. Make sure all the files stay together in the same folder (do not move the DLLs or plugin folders away from `Card_Printer.exe`).
-3. **Double‑click** `Card_Printer.exe` to open the application.
+1. Go to the GitHub repository: [LucasCollevatti/card-game-printer](https://github.com/LucasCollevatti/card-game-printer).
+2. Choose one of the options:
+   - **Download as ZIP**: click the green **Code** button → **Download ZIP**, then unzip it to any folder.
+   - **Clone with Git**:  
+     `git clone https://github.com/LucasCollevatti/card-game-printer.git`
+3. After downloading/cloning, make sure all the files stay together in the same folder (do not move the DLLs or plugin folders away from `Card_Printer.exe`).
+4. On Windows, **double‑click** `Card_Printer.exe` to open the application.
 
 No additional installation, drivers, or dependencies are required beyond what is shipped in this folder.
 
