@@ -51,7 +51,7 @@ The main window is split into three main areas:
 
 - **Overall UI – Empty project**
 
-![Main window with empty table](./ui.png)
+![Main window with empty table](./images/ui.png)
 
 - **Left side – Card list table**  
   Shows one row per card. Each row contains:
@@ -88,7 +88,7 @@ You can select rows in the table to see their preview and to apply operations on
 
 Example of a project after adding several fronts:
 
-![Card list after adding fronts](./choose-card.png)
+![Card list after adding fronts](./images/choose-card.png)
 
 You can add more cards later by clicking **`Add Cards`** again.
 
@@ -130,7 +130,7 @@ If you later change your mind, you can run `Change Back` or `Change All Backs` a
 
 Example of the UI after choosing a back for the cards:
 
-![Choosing a back image](./choose-back.png)
+![Choosing a back image](./images/choose-back.png)
 
 ---
 
@@ -174,7 +174,7 @@ The resulting PDF will:
 
 Example output page:
 
-![Resulting PDF with fronts and backs](./result.png)
+![Resulting PDF with fronts and backs](./images/result.png)
 
 This format is ideal for home printing: you can print, fold along the line, glue (optional), and then cut out your cards.
 
